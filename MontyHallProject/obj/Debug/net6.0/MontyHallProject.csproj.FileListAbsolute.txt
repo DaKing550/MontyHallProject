@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\bin\Debug\net6.0\MontyHallProject.exe
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\bin\Debug\net6.0\MontyHallProject.deps.json
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\bin\Debug\net6.0\MontyHallProject.runtimeconfig.json
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\bin\Debug\net6.0\MontyHallProject.dll
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\bin\Debug\net6.0\MontyHallProject.pdb
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.AssemblyInfo.cs
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.dll
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\refint\MontyHallProject.dll
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.pdb
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\MontyHallProject.genruntimeconfig.cache
+C:\Users\David\source\repos\MontyHallProject\MontyHallProject\obj\Debug\net6.0\ref\MontyHallProject.dll
