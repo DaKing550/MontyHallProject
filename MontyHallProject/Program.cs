@@ -22,6 +22,19 @@
             //code to adjust by the user not desired at this time
             //Console.WriteLine("How many times would you like to play the monty hall game");
             int desiredNumberOfTries = 20000;    //int.Parse(Console.ReadLine());
+            string content = File.ReadAllText(@"C:\Users\David\Documents\Project Documents\MontyHallTries.txt");
+            bool textTries = true;
+            //Console.WriteLine("Input a text file Y/N?")
+            //string changeTries = Console.ReadLine()
+            //if(changeTries == "Y")
+            //{
+            //  textTries = True
+            //}
+
+            if(textTries)
+            {
+                desiredNumberOfTries = int.Parse(content);
+            }
             int numberOfResults = 0;
 
             while (desiredNumberOfTries > numberOfResults)
